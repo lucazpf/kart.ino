@@ -1,0 +1,4 @@
+REV 0.1
+Microcontroller: Arduino Micro ATMega32u4
+Accelerometer: GY-61 ADXL335
+Datalogger: OpenLog
